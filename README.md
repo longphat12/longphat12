@@ -40,7 +40,15 @@ src="https://img.shields.io/github/followers/longphat12?logo=github&style=for-th
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/longphat12" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://www.facebook.com/longphat1090" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/static/v1?label=Follow%20me%20on&message=Facebook&color=3b5998&style=for-the-badge&logo=facebook" alt="Follow me on Facebook" />
+    </a>
+
+    <a href="https://www.github.com/longphat12" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/github/followers/longphat12?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Follow" />
+    </a>
+</div>
 
 ### Badges
 
@@ -50,5 +58,6 @@ src="https://img.shields.io/github/followers/longphat12?logo=github&style=for-th
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longphat12&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
     </a>
 </div>
+
 
 
