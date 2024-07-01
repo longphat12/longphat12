@@ -8,33 +8,6 @@ https://www.facebook.com/longphat1090
 src="https://img.shields.io/github/followers/longphat12?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
-
-
-<style>
-    .skill-category {
-        margin-bottom: 10px;
-    }
-
-    .skill-category h3 {
-        font-size: 18px;
-        font-weight: bold;
-        color: #0891b2; /* Màu sắc bạn có thể thay đổi tùy ý */
-        margin-bottom: 5px;
-    }
-
-    .skill-icons {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-    }
-
-    .skill-icons a {
-        margin-right: 10px;
-        margin-bottom: 10px;
-        display: inline-block;
-    }
-</style>
-
 <div class="skill-category">
     <h3>Backend</h3>
     <div class="skill-icons">
