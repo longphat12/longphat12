@@ -7,7 +7,6 @@ https://www.facebook.com/longphat1090
 <a href="https://www.github.com/longphat12" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/longphat12?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
 <div class="skill-category">
     <h3>Backend</h3>
     <div class="skill-icons">
