@@ -38,18 +38,6 @@ src="https://img.shields.io/github/followers/longphat12?logo=github&style=for-th
     </div>
 </div>
 
-### Socials
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://www.facebook.com/longphat1090" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/static/v1?label=Follow%20me%20on&message=Facebook&color=3b5998&style=for-the-badge&logo=facebook" alt="Follow me on Facebook" />
-    </a>
-
-    <a href="https://www.github.com/longphat12" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/github/followers/longphat12?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Follow" />
-    </a>
-</div>
-
 ### Badges
 
 <b>My GitHub Stats</b>
