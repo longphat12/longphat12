@@ -1,8 +1,7 @@
 Hi 👋 My name is Long Phát
 ==========================
-
-
-<a href="https://www.facebook.com/longphat1090" target="_blank" rel="noreferrer">
+<div>
+    <a href="https://www.facebook.com/longphat1090" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/static/v1?label=Follow%20me%20on&message=Facebook&color=3b5998&style=for-the-badge&logo=facebook" alt="Follow me on Facebook" />
 </a>
 
@@ -37,15 +36,8 @@ src="https://img.shields.io/github/followers/longphat12?logo=github&style=for-th
         <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
     </div>
 </div>
-
-### Badges
-
-<b>My GitHub Stats</b>
-<div style="display: flex; justify-content: space-between;">
-    <a href="http://www.github.com/longphat12" style="flex: 1; margin-left: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longphat12&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-    </a>
 </div>
+
 
 
 
