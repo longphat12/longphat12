@@ -31,6 +31,7 @@ Hi 👋 My name is Long Phát
     <h3>Follow Me</h3>
 </div>
 <span>Facebook</span>
+<dr>
     <a href="https://www.facebook.com/longphat1090" target="_blank" rel="noreferrer" style="margin-right: 10px;">
         <img src="https://img.shields.io/static/v1?label=Follow%20me%20on&message=Facebook&color=3b5998&style=for-the-badge&logo=facebook" alt="Follow me on Facebook" />
     </a>
