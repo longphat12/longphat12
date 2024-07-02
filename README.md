@@ -1,4 +1,4 @@
-Hi 👋 My name is Long Phát
+Hi 🫤 My name is Long Phát
 ==========================
 <div>
 <div class="skill-category">
@@ -28,9 +28,8 @@ Hi 👋 My name is Long Phát
         <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
     </div>
 </div>
-    <h3>Follow Me</h3>
+    <h3>Facebook 💖</h3>
 </div>
-<span>Facebook</span>
 <br>
     <a href="https://www.facebook.com/longphat1090" target="_blank" rel="noreferrer" style="margin-right: 10px;">
         <img src="https://img.shields.io/static/v1?label=Follow%20me%20on&message=Facebook&color=3b5998&style=for-the-badge&logo=facebook" alt="Follow me on Facebook" />
