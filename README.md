@@ -28,6 +28,12 @@ Hi 🫤 My name is Long Phát
         <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
     </div>
 </div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api?username=therealFoxster&card_width=440&custom_title=GitHub%20Stats&show_icons=true&show=prs_merged&theme=default#gh-light-mode-only" alt="github-stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api?username=therealFoxster&card_width=440&custom_title=GitHub%20Stats&show_icons=true&show=prs_merged&theme=github_dark&border_color=30363d#gh-dark-mode-only" alt="github-stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealFoxster&size_weight=0.5&count_weight=0.5&card_width=430&langs_count=10&layout=compact&theme=default#gh-light-mode-only" alt="top-langs" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealFoxster&size_weight=0.5&count_weight=0.5&card_width=430&langs_count=10&layout=compact&theme=github_dark&border_color=30363d#gh-dark-mode-only" alt="top-langs" /></a>
+
     <h3>Facebook 💖</h3>
 </div>
     <a href="https://www.facebook.com/longphat1090" target="_blank" rel="noreferrer" style="margin-right: 10px;">
