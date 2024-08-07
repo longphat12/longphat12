@@ -32,7 +32,7 @@ Hi 🫤 My name is Long Phát
         <h3>Skills</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api?username=longphat12&card_width=440&custom_title=GitHub%20Stats&show_icons=true&show=prs_merged&theme=default#gh-light-mode-only" alt="github-stats" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api?username=longphat12&card_width=440&custom_title=GitHub%20Stats&show_icons=true&show=prs_merged&theme=github_dark&border_color=30363d#gh-dark-mode-only" alt="github-stats" /></a>
-<a href="https://github.com/longphat12/github-readme-stats#gh-light-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=longphat12&size_weight=0.5&count_weight=0.5&card_width=430&langs_count=10&layout=compact&theme=default#gh-light-mode-only" alt="top-langs" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=longphat12&size_weight=0.5&count_weight=0.5&card_width=430&langs_count=10&layout=compact&theme=default#gh-light-mode-only" alt="top-langs" /></a>
 <a href="https://github.com/longphat12/github-readme-stats#gh-dark-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=longphat12&size_weight=0.5&count_weight=0.5&card_width=430&langs_count=10&layout=compact&theme=github_dark&border_color=30363d#gh-dark-mode-only" alt="top-langs" /></a>
 </div>
     <h3>Facebook 💖</h3>
