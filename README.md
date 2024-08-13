@@ -42,4 +42,4 @@ Hi 🫤 My name is Long Phát
     </a>
 <br>
         <h3>Joke</h3>
-   <a href="https://tiengdong.com/wp-content/uploads/Video-hu-ma-bat-ngo-www_tiengdong_com.mp4?_=1" style="margin-top: 10px;background-color: coral;"> Đừng Click Vào Đây </button>
+        //<a href="https://tiengdong.com/wp-content/uploads/Video-hu-ma-bat-ngo-www_tiengdong_com.mp4?_=1" style="margin-top: 10px;background-color: coral;"> Đừng Click Vào Đây </button>
