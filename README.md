@@ -1,45 +1,81 @@
-Hi 🫤 My name is Long Phát
-==========================
-<div>
-<div class="skill-category">
-    <h3>Frontend</h3>
-    <div class="skill-icons">
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-        <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-        <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
-        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-    </div>
+<div align="center">
+
+# ☕ Hi there, I'm Long Phát! 👋
+### *Turning caffeine into code (and occasionally bugs into "features")* 🚀
+
+<br/>
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="380" alt="Coding GIF" />
+
+<br/><br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Vue+%2B+Nuxt+%7C+Laravel+%2B+NestJS;It+worked+on+my+machine+¯%5C_(ツ)_%2F¯" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <a href="https://www.facebook.com/100004260183265" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Say_Hi!-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://github.com/longphat12">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
-<div class="skill-category">
-    <h3>Backend</h3>
-    <div class="skill-icons">
-        <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-        <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-        <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-        <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-        <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-    </div>
+---
+
+### ⚡ Quick Facts
+- 💻 **Main Arsenal:** Vue.js, Nuxt.js, TypeScript & Laravel, NestJS, MySQL/MongoDB.
+- 🧘‍♂️ **Philosophy:** *"If it works, don't touch it. If it doesn't, blame the cache."*
+- 🎯 **Current Goal:** Viết code ít bug hơn ngày hôm qua.
+- 💬 **Ask me about:** Frontend mượt mà, Backend trâu bò, hoặc quán cà phê nào mạng mạnh!
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,tailwind,bootstrap,sass,html" alt="Frontend" />
+  <br/>
+  <!-- Backend & DevOps -->
+  <img src="https://skillicons.dev/icons?i=php,laravel,nestjs,java,mysql,mongodb,docker,linux" alt="Backend & Tools" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- Light Mode -->
+  <a href="https://github.com/longphat12#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=longphat12&show_icons=true&theme=vue&border_radius=10#gh-light-mode-only" height="160" alt="Stats Light" />
+  </a>
+  <a href="https://github.com/longphat12#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longphat12&layout=compact&theme=vue&border_radius=10#gh-light-mode-only" height="160" alt="Langs Light" />
+  </a>
+
+  <!-- Dark Mode -->
+  <a href="https://github.com/longphat12#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=longphat12&show_icons=true&theme=tokyonight&border_radius=10#gh-dark-mode-only" height="160" alt="Stats Dark" />
+  </a>
+  <a href="https://github.com/longphat12#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longphat12&layout=compact&theme=tokyonight&border_radius=10#gh-dark-mode-only" height="160" alt="Langs Dark" />
+  </a>
+
 </div>
-<div class="skill-category">
-        <h3>Skills</h3>
-<a href="https://github.com/longphat12/github-readme-stats#gh-light-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api?username=longphat12&card_width=440&custom_title=GitHub%20Stats&show_icons=true&show=prs_merged&theme=default#gh-light-mode-only" alt="github-stats" /></a>
-<a href="https://github.com/longphat12/github-readme-stats#gh-dark-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api?username=longphat12&card_width=440&custom_title=GitHub%20Stats&show_icons=true&show=prs_merged&theme=github_dark&border_color=30363d#gh-dark-mode-only" alt="github-stats" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=longphat12&size_weight=0.5&count_weight=0.5&card_width=430&langs_count=10&layout=compact&theme=default#gh-light-mode-only" alt="top-langs" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=longphat12&size_weight=0.5&count_weight=0.5&card_width=430&langs_count=10&layout=compact&theme=github_dark&border_color=30363d#gh-dark-mode-only" alt="top-langs" /></a>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="220" alt="Funny Coder" />
+
+<br/>
+
+> 💡 *"There are 10 types of people in the world: those who understand binary, and those who don't."*
+
 </div>
-    <h3>Facebook 💖</h3>
-</div>
-    <a href="https://www.facebook.com/100004260183265" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-        <img src="https://img.shields.io/static/v1?label=Follow%20me%20on&message=Facebook&color=3b5998&style=for-the-badge&logo=facebook" alt="Follow me on Facebook" />
-    </a>
-<br>
-        <h3>Joke</h3>
-        //<a href="https://tiengdong.com/wp-content/uploads/Video-hu-ma-bat-ngo-www_tiengdong_com.mp4?_=1" style="margin-top: 10px;background-color: coral;"> Đừng Click Vào Đây</button>
