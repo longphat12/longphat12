@@ -1,16 +1,18 @@
 <div align="center">
 
 # ☕ Hi there, I'm Long Phát! 👋
-### *Turning caffeine into code (and occasionally bugs into "features")* 🚀
+### *Turning coffee into clean code & great user experience*
 
 <br/>
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="380" alt="Coding GIF" />
+<!-- GIF chill: Ngồi gõ code VS Code, thưởng thức cà phê -->
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="480" alt="Chill Coding with Coffee" style="border-radius: 12px;" />
 
 <br/><br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Vue+%2B+Nuxt+%7C+Laravel+%2B+NestJS;It+worked+on+my+machine+¯%5C_(ツ)_%2F¯" alt="Typing SVG" />
+<!-- Typing SVG đã sửa encode, chạy ổn định 100% -->
+<a href="https://github.com/longphat12">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Vue.js+%2B+Nuxt.js+%7C+Laravel+%2B+NestJS;Coding+chill+%26+Drinking+coffee+%E2%98%95;It+worked+on+my+machine!" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -26,45 +28,43 @@
 
 ---
 
-### ⚡ Quick Facts
-- 💻 **Main Arsenal:** Vue.js, Nuxt.js, TypeScript & Laravel, NestJS, MySQL/MongoDB.
-- 🧘‍♂️ **Philosophy:** *"If it works, don't touch it. If it doesn't, blame the cache."*
-- 🎯 **Current Goal:** Viết code ít bug hơn ngày hôm qua.
-- 💬 **Ask me about:** Frontend mượt mà, Backend trâu bò, hoặc quán cà phê nào mạng mạnh!
+### ⚡ Về tôi (Quick Facts)
+- 💻 **Vũ khí chính:** Vue.js, Nuxt.js, TypeScript & Laravel, NestJS, MySQL/MongoDB.
+- 🧘‍♂️ **Châm ngôn:** *"Nếu code chạy ngon lành, đừng đụng vào. Nếu lỗi, thử xóa cache trước!"*
+- 🎯 **Mục tiêu:** Tối ưu hiệu năng hệ thống, kiến trúc sạch sẽ & ít bug hơn ngày hôm qua.
+- 💬 **Giao lưu:** Frontend mượt mà, Backend trâu bò, hoặc tìm quán cà phê yên tĩnh để cày task.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,tailwind,bootstrap,sass,html" alt="Frontend" />
+  <!-- Frontend Icons -->
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,tailwind,bootstrap,sass,html" alt="Frontend Skills" />
   <br/>
-  <!-- Backend & DevOps -->
-  <img src="https://skillicons.dev/icons?i=php,laravel,nestjs,java,mysql,mongodb,docker,linux" alt="Backend & Tools" />
+  <!-- Backend & Tools Icons -->
+  <img src="https://skillicons.dev/icons?i=php,laravel,nestjs,java,mysql,mongodb,docker,linux,vscode" alt="Backend & Tools" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
 
-  <!-- Light Mode -->
-  <a href="https://github.com/longphat12#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=longphat12&show_icons=true&theme=vue&border_radius=10#gh-light-mode-only" height="160" alt="Stats Light" />
-  </a>
-  <a href="https://github.com/longphat12#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longphat12&layout=compact&theme=vue&border_radius=10#gh-light-mode-only" height="160" alt="Langs Light" />
-  </a>
-
-  <!-- Dark Mode -->
-  <a href="https://github.com/longphat12#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=longphat12&show_icons=true&theme=tokyonight&border_radius=10#gh-dark-mode-only" height="160" alt="Stats Dark" />
-  </a>
-  <a href="https://github.com/longphat12#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longphat12&layout=compact&theme=tokyonight&border_radius=10#gh-dark-mode-only" height="160" alt="Langs Dark" />
-  </a>
+  <!-- Thẻ Stats: Dùng thẻ picture chuẩn GitHub giúp chuyển mượt mà giữa Dark và Light mode -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=longphat12&show_icons=true&theme=tokyonight&border_radius=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=longphat12&show_icons=true&theme=vue&border_radius=10">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=longphat12&show_icons=true&theme=tokyonight&border_radius=10" height="160" alt="GitHub Stats" />
+  </picture>
+  &nbsp;
+  <!-- Thẻ Top Languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=longphat12&layout=compact&theme=tokyonight&border_radius=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=longphat12&layout=compact&theme=vue&border_radius=10">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=longphat12&layout=compact&theme=tokyonight&border_radius=10" height="160" alt="Top Languages" />
+  </picture>
 
 </div>
 
@@ -72,10 +72,6 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="220" alt="Funny Coder" />
-
-<br/>
-
-> 💡 *"There are 10 types of people in the world: those who understand binary, and those who don't."*
+💭 *"There are 10 types of people in the world: those who understand binary, and those who don't."*
 
 </div>
